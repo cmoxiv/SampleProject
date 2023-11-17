@@ -18,3 +18,7 @@ df = pd.DataFrame()
 print(df)
 
 np.random.standard_t(.1)
+
+np.random.standard_t(.1)
+np.random.standard_t(.1)
+np.random.standard_t(.1)
