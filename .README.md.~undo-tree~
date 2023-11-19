@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"9251eaa2ad98063c4935176eba879d6c2af52362"
+"bab89a79f0e501e43444cdb6e8c7d2fc358ada3c"
 [nil nil nil nil (25943 22756 421891 432000) 0 nil]
 ([nil nil ((32 . 33) (t 25943 22601 16663 75000)) nil (25946 10485 670242 903000) 0 nil])
 ([nil nil ((17 . 27)) nil (25946 10485 670242 336000) 0 nil])
@@ -20,6 +20,15 @@
 ([nil nil ((112 . 114)) nil (25946 10485 670219 71000) 0 nil])
 ([nil nil ((93 . 97) (#("
 " 0 1 (font-lock-multiline t fontified nil)) . -108) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (#("TBD" 0 3 (fontified t)) . 109)) nil (25946 10485 670217 885000) 0 nil])
-([nil current ((108 . 112) (#("
+([nil nil ((108 . 112) (#("
 " 0 1 (fontified nil)) . 93) (undo-tree-id0 . -1) (#("TBD" 0 3 (fontified t)) . 93)) nil (25946 10485 670211 25000) 0 nil])
+([nil nil ((114 . 118) (t 25946 10485 675468 623000)) nil (25946 10650 461640 890000) 0 nil])
+([nil nil ((#(" " 0 1 (face markdown-markup-face invisible markdown-markup fontified nil)) . -118) (117 . 118)) nil (25946 10650 461639 762000) 0 nil])
+([nil nil ((118 . 133)) nil (25946 10650 461638 736000) 0 nil])
+([nil nil ((133 . 140)) nil (25946 10650 461637 860000) 0 nil])
+([nil nil ((140 . 161)) nil (25946 10650 461637 82000) 0 nil])
+([nil nil ((161 . 175)) nil (25946 10650 461636 437000) 0 nil])
+([nil nil ((175 . 176)) nil (25946 10650 461635 798000) 0 nil])
+([nil nil ((176 . 178)) nil (25946 10650 461634 521000) 0 nil])
+([nil current ((178 . 179)) nil (25946 10650 461630 407000) 0 nil])
 nil
