@@ -31,6 +31,23 @@ np.random
 
 np.random.chisquare
 
-df = pd.DataFrame()
+dfdfdf = pd.DataFrame()
 
+dfdfdf.abs()
+
+
+# df.add_prefix()
+
+# np.
+
+df
+
+pd.DataFrame()
+
+
+
+# pd.
+x=12
+
+y=123
 
